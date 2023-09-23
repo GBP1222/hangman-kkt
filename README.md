@@ -1,2 +1,1 @@
-# hangman-kkt
-cezar e un prost
+# hangman speedrun
